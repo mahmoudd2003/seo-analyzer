@@ -1,0 +1,19 @@
+
+profiles:
+  full:
+    enable:
+      - filler_detector
+      - trust_compliance
+      - internal_links
+  content_only:
+    enable:
+      - filler_detector
+  tech_only:
+    enable: []
+  spam_only:
+    enable: []
+  trust_only:
+    enable:
+      - trust_compliance
+  competitive:
+    enable: []

@@ -1,0 +1,11 @@
+
+streamlit
+pandas
+numpy
+requests
+lxml
+beautifulsoup4
+pyyaml
+python-dateutil
+tqdm
+openpyxl

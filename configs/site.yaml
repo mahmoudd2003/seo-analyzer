@@ -1,0 +1,5 @@
+
+filters:
+  include_paths: []
+  exclude_paths: []
+  lastmod_since: null   # مثال: "2025-01-01"

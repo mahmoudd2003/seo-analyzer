@@ -1,0 +1,23 @@
+
+publisher_identity:
+  author_box: required
+  reviewer_box: preferred
+  org_schema: required
+  contact_page: required
+  about_page: required
+
+citations:
+  min_sources_per_article: 2
+  allowed_domains_hint: ["gov","edu","who.int","moh.gov.sa","stat.gov.sa"]
+
+policies:
+  privacy_policy: required
+  terms_of_use: required
+
+ymyl_extras:
+  disclaimer_block: preferred
+  expert_review_badge: preferred
+
+display_requirements:
+  show_publish_update_dates: required
+  author_profile_link: required

@@ -1,0 +1,4 @@
+
+/* RTL helpers */
+.block-container { direction: rtl; }
+[data-testid="stSidebar"] .css-1d391kg { direction: rtl; }
